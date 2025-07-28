@@ -1,0 +1,28 @@
+{
+    "name": "ТЕНИСКА С ПРИНТ",
+    "price": 15.99,
+    "current_color": "Бял/Fleuri",
+    "available_colors": [
+        "Бял/Fleuri",
+        "Тъмносив/Tropicale",
+        "Кремав/Раковини",
+        "Бял/La Poire",
+        "Бял/Café Poésie",
+        "Тъмносив/Cannes",
+        "Бял/Le Maison",
+        "Бял/San Sebastián",
+        "Тъмнокафяв/Atelier",
+        "Бял/Paris",
+        "Черен/Paris",
+        "Бял/New York",
+        "Розов/New York",
+        "Бял/Paradise",
+        "Бял/Le Marais",
+        "Червен/Running Club",
+        "Зелен/The Hamptons",
+        "Dark red/Café Poésie",
+        "Оранжев/Paris"
+    ],
+    "reviews_count": 99,
+    "reviews_score": 4.6
+}
